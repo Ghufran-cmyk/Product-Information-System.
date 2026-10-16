@@ -1,4 +1,4 @@
-Product Information System
+Product Information System.
 
 ## Deskripsi Proyek
 Proyek ini adalah rancangan cetak biru (*blueprint*) sistem manajemen data informasi produk siap pakai. Proyek ini mengimplementasikan konsep pemrosesan *Server-Side*, manajemen data kolektif, dan desain modular (pemisahan *file*).
