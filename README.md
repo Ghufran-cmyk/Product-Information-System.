@@ -1,6 +1,4 @@
-# Mini Project 1: Product Information System
-
-Tugas ini dikerjakan untuk memenuhi evaluasi pembelajaran Pemrograman Web pada materi **PHP Fundamental & Data Structure**.
+Product Information System
 
 ## Deskripsi Proyek
 Proyek ini adalah rancangan cetak biru (*blueprint*) sistem manajemen data informasi produk siap pakai. Proyek ini mengimplementasikan konsep pemrosesan *Server-Side*, manajemen data kolektif, dan desain modular (pemisahan *file*).
